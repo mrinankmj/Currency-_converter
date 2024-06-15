@@ -1,5 +1,5 @@
-![image](https://github.com/mrinankmj/Currency-_converter/assets/104819107/905a20ee-f0ae-41ac-a5be-334bb372aea4)Currency Converter
 
+Currency Converter
 A simple and intuitive currency converter application built with React. This app allows users to convert amounts between various currencies in real-time, using up-to-date exchange rates.
 Features
 
